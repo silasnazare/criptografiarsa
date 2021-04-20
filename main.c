@@ -158,7 +158,7 @@ int main(int argc, char** argv) {
     char *msg_decript;
     msg_decript = decodifica(msg_cript, d, n);
 
-    printf("\nMensagem desencriptada: %s", msg_decript);
+    printf("\nMensagem desencriptada: %s\n", msg_decript);
 
     free(msg_cript);
     free(msg_decript);
