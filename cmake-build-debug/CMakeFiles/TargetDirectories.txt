@@ -1,0 +1,3 @@
+C:/Users/silas/OneDrive/Documentos/CLionProjects/criptografiarsa/cmake-build-debug/CMakeFiles/criptografiarsa.dir
+C:/Users/silas/OneDrive/Documentos/CLionProjects/criptografiarsa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/silas/OneDrive/Documentos/CLionProjects/criptografiarsa/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/silas/OneDrive/Documentos/CLionProjects/criptografiarsa/main.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+string.h
+-
+locale.h
+-
+
